@@ -1,0 +1,11 @@
+C:\Users\Kefir_\source\repos\Abstract Factory1\bin\Debug\Abstract Factory1.exe.config
+C:\Users\Kefir_\source\repos\Abstract Factory1\bin\Debug\Abstract Factory1.exe
+C:\Users\Kefir_\source\repos\Abstract Factory1\bin\Debug\Abstract Factory1.pdb
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract Factory1.csproj.AssemblyReference.cache
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract Factory1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract_Factory1.Form1.resources
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract_Factory1.Properties.Resources.resources
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract Factory1.csproj.GenerateResource.cache
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract Factory1.csproj.CoreCompileInputs.cache
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract Factory1.exe
+C:\Users\Kefir_\source\repos\Abstract Factory1\obj\Debug\Abstract Factory1.pdb
